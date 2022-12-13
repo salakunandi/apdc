@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:http://apidocs.ngpvan.com/sitemap.xml
